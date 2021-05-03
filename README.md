@@ -4,7 +4,7 @@
 - Permitir ativar/desativar um aluno
 - Testes unitário, PSR-12 contam pontos a mais
 
-- Pendências:
+- Pendências: 
 - Uso de injeção de dependência
 - Uso de design pattern
 - Uso de validação
