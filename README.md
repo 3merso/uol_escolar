@@ -11,4 +11,5 @@
 - Uso de try catch
 - Criação de restrição para impedir exclusão de cursos que tenham alunos matriculados
 - Formatação de datas
-- Realizar testes unitários
+- Realizar testes unitários# uol_escolar
+# uol_escolar
